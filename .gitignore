@@ -1,3 +1,7 @@
 *.class
 *.o
 *.d
+*.so
+*.a
+*.properties
+*.classpath
