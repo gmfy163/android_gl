@@ -2,7 +2,7 @@ package com.learnopengels.viewutils;
 
 public class GameLibJNIWrapper {
 	static {
-		System.loadLibrary("game");
+		System.loadLibrary("opengl_es");
 	}
 
 	public static native void on_surface_created();
